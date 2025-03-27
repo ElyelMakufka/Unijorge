@@ -1,0 +1,29 @@
+body{
+    background-image: url(Background.png);
+    background-size:cover;
+    font-family: "Jersey 20", sans-serif;
+    font-style: normal;
+    font-size: x-large;    
+}
+
+nav{
+    position: static;
+    text-align: center;
+
+}
+a:hover{
+    background-color: transparent;
+    color: red;
+
+}
+
+a{
+    text-decoration: none;
+    margin: 50px;
+    background-color: rgba(0, 0, 0, 0.253);
+    color: red;
+    border-radius: 10px;
+}
+
+
+  
